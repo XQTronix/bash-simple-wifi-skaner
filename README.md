@@ -91,3 +91,8 @@ Use network-related tools responsibly and only on networks and systems you are a
 This project is free to modify and customize for personal use.
 
 Enjoy! 🐧⚡
+
+
+## 📸 Screenshot
+
+![Wi-Fi Scanner](wifi-skaner-example.png)
